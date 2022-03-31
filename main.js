@@ -139,7 +139,7 @@ let render = () => {
             src="${news.media}"
           />
         </div>
-        <div class="col-8">git 
+        <div class="col-8">
           <h2>${news.title}</h2>
           <p>
           ${
